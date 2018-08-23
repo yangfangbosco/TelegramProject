@@ -1,6 +1,6 @@
 # Telegram User Auto Sign Up
 
-This is the code to auto sign up
+This is the code to auto sign up with Selenium and Telethon API
 
 ### Running
 
