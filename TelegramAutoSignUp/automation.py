@@ -18,8 +18,8 @@ import names
 
 def get_number_from_yima():
     # return mobile, token, itemid
-    username = 'yangfangdev'
-    password = '111222'
+    username = ''
+    password = ''
     action = 'login'
     PARAMS = {'action':action, 'username':username, 'password':password}
     # Get the user token
