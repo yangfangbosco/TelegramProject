@@ -20,6 +20,3 @@ Replace the api_id, api_hash, client_name and phone_number, channel name in the 
 2. addMembers.py
 Replace the input file, startingline of the file, and the channel name
 
-### Copyright
-
-All the code are owned by DataApplicationLab. Copying or Using the code must get permission from DataApplicationLab
